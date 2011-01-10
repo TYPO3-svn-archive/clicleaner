@@ -25,7 +25,7 @@
 /** 
  * This class provides the functionality for the tx_clicleaner_cache module of the lowlevel_cleaner
  *
- * @author		Arnd Messer (typo3@medienagenten.de)
+ * @author		Arnd Messer (LastName@medienagenten.de)
  * @package		TYPO3
  * @subpackage	tx_clicleaner
  */
